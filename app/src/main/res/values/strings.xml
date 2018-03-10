@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CIS3515Lab6</string>
+    <string-array name="Colors">
+        <item>Magenta</item>
+        <item>White</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Black</item>
+        <item>Gray</item>
+        <item>Maroon</item>
+        <item>Aqua</item>
+    </string-array>
+</resources>
